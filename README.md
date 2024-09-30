@@ -10,3 +10,4 @@ This repository contains the starter code for many different projects. They are 
 * `foundation` - Starter projects for foundation projects.
 
 This line is added just to satisfy the assignment :)
+This line is added to commit a change via the terminal and not gui
